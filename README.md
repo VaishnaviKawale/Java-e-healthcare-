@@ -50,122 +50,42 @@ If you want to access the app from outside your OpenShift installation, you have
 oc expose springboot-sample-app --hostname=www.example.com
 ```
 
-<img src="./bioMedical/img/1.png" >
+![Screenshot 2023-07-19 215413](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/ba6549a9-f751-4915-8166-b409ddfabd5b)
+
 
 # User Panel :
+![Screenshot 2023-07-19 215428](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/2941f062-e892-497a-9228-f398ffca4af6)
+![Screenshot 2023-07-19 215444](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/e2011d4e-0997-4dab-844b-bf2703833ab8)
+![Screenshot 2023-07-19 215455](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/b1b05e3d-cdc7-46fe-b9eb-53b6c28acce6)
+![Screenshot 2023-07-19 215505](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/8ba828c3-c1e9-4b7b-b487-3ef61c9c9e19)
+![Screenshot 2023-07-19 215515](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/588cc6dc-a84a-416a-b5d4-ebfbdb45e2e9)
+![Screenshot 2023-07-19 215523](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/d8fb05d9-901a-4dc4-a2a3-24f709a90479)
+![Screenshot 2023-07-19 215531](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/641e3195-e2bd-44c4-ad53-516a128bc0b6)
+![Screenshot 2023-07-19 215539](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/20c63ab9-dfca-482d-a124-48515747442a)
+![Screenshot 2023-07-19 215547](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/c361df0c-b321-4f98-8995-069f46cee4ae)
+![Screenshot 2023-07-19 215554](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/b7a6865e-e9b1-4346-8904-b5fc05ed558d)
+![Screenshot 2023-07-19 215602](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/51cb7d02-30e8-402e-857d-34a3db51ee9d)
 
-<img src="./bioMedical/img/2.png" >
-<img src="./bioMedical/img/3.png" >
-<img src="./bioMedical/img/4.png" >
-<img src="./bioMedical/img/5.png" >
-<img src="./bioMedical/img/6.png" >
-<img src="./bioMedical/img/7.png" >
-<img src="./bioMedical/img/8.png" >
-<img src="./bioMedical/img/9.png" >
-<img src="./bioMedical/img/10.png" >
-<img src="./bioMedical/img/11.png" >
-<img src="./bioMedical/img/12.png" >
+
+
 
 # Doctor Panel (Dashboard Access):
+![Screenshot 2023-07-19 220301](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/48ee2e80-75e1-467f-9fac-966ee501447e)
+
+![Screenshot 2023-07-19 220312](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/5e5ef265-cc58-4fa2-b847-de1acf5c2065)
 
 
-<img src="./bioMedical/img/13.png" >
-<img src="./bioMedical/img/14.png" >
 
 # Master Admin Panel (Dashboard Access):
+![Screenshot 2023-07-19 220418](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/3c59ab23-1a4a-405d-9000-5a2f8142aa16)
+![Screenshot 2023-07-19 220427](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/2c8f1951-85e4-4fe0-a4db-5819b98dc8f9)
+![Screenshot 2023-07-19 220435](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/ca9c2049-1e23-4524-a8d8-60c4eeb32220)
+![Screenshot 2023-07-19 220442](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/eb434cd1-b893-4bd7-b015-5b562d593601)
 
-<img src="./bioMedical/img/15.png" >
-<img src="./bioMedical/img/16.png" >
-<img src="./bioMedical/img/17.png" >
-<img src="./bioMedical/img/18.png" >
-<img src="./bioMedical/img/19.png" >
-<img src="./bioMedical/img/20.png" >
-<img src="./bioMedical/img/21.png" >
-<img src="./bioMedical/img/22.png" >
-<img src="./bioMedical/img/23.png" >
-
-
-## Copyright @soumyadip007
-```shell
-/**
- * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
- *
- */
-
-```
-Released under the Apache License 2.0. See the [LICENSE](https://github.com/codecentric/springboot-sample-app/blob/master/LICENSE) file.
-# #Java Software (AWT/Swing/JavaFx/JDBC)
-
-- [Java Swing 4 Projects Book selling system,Stadium Management,Chatbot etc](https://github.com/soumyadip007/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software)
-
-- [School Management System Software](https://github.com/soumyadip007/School-Management-System-GUI-Software-Using-Java-Swing-AWT-JDBC-JTatoo-MySql)
-
-- [Java Swing Complete tutorial with example for JavaGuides.net](https://github.com/soumyadip007/Java-Swing-tutorials-and-examples-for-JavaGuides.net)
+![Screenshot 2023-07-19 220450](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/82231efd-30f3-403d-acdd-092549a7a818)
+![Screenshot 2023-07-19 220457](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/4e8a1250-465e-48af-8f99-9cc902f999d1)
+![Screenshot 2023-07-19 220503](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/3720bfe3-840e-4ed8-adcf-3b1a5384c213)
+![Screenshot 2023-07-19 220510](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/c0d3faae-5ac0-4efc-b58c-49afa6cf6daf)
+![Screenshot 2023-07-19 220520](https://github.com/VaishnaviKawale/Java-e-healthcare-/assets/116081386/3dd0106c-943a-42cf-9aac-07491ef34a8c)
 
 
-# #J2EE (JSP/Servlet/JSTL/JDBC Projects)
-
-- [E-Market Place OLX-Clone](https://github.com/soumyadip007/E-Marketplace-for-buying-and-reselling-products-Web-Project-Using-JSP-Servlet-Jstl-Security-Jdbc)
-
-- [Startup Company Live Website](https://soumyadip007.github.io/Coding_Liquids-StartUp-Company-Live-Website-Using-JSP-Servlet-JSTL-Security-JDBC-MD5-MySql-Bootstrap/)
-
-- [Post-Disaster Management & Women Safety Project](https://github.com/soumyadip007/Post-Disaster-Management-and-Women-safety-Hackathon-JSP-Servlet-MySql-Bootstrap-GoogleMapApi-OSM)
-
-- [Aim-India-Foundation-NGO-Live-Website](Aim-India-Foundation-WebDev-Internship-Using-Jsp-Servlet-Jstl-Jdbc-MySql-Bootstrap)
-
-- *https://Lightningspeedmatchmaker.com* (in Private repo for security/commercial purposes,USA project)
-
-
-# #Spring & Hibernte (Codes & Projects)
-
-- [Spring-Core-XML-Data-Dependency-BeanScope-BeanLifecycle](https://github.com/soumyadip007/Spring-Core-XML-Data-Dependency-BeanScope-BeanLifecycle)
-
-- [Spring-Core-Annotation](https://github.com/soumyadip007/Spring-Core-Annotation-BeanScope-BeanLifecycle)
-
-- [Hibernate-ORM (All)](https://github.com/soumyadip007/Hibernate-ORM-Entity-Relations)
-
-- [Spring-MVC-Request-Mapping-Validation](https://github.com/soumyadip007/Spring-MVC-Request-Mapping-Validation)
-
-- [Customer-Tracker-CURD-Application-Using-Spring-MVC-Hibernate (Mini-Project)](https://github.com/soumyadip007/Customer-Tracker-CURD-Application-Using-Spring-MVC-Hibernate)
-
-- [Spring-Security-User-Login-Authentication-Application-JDBC-Bcrypt](https://github.com/soumyadip007/Spring-Security-User-Login-Authentication-Application-JDBC-Bcrypt)
-
-- [Spring-Security-Authentication-System-Registration-Login-with-OTP-Token-and-Email-verification (Mini Project)](https://github.com/soumyadip007/Spring-Security-Authentication-System-Reg-Login-with-OTP-Token-and-Email-verification)
-
-- [SpringRest-Restfull-Webserices-Jackson-Json-Data-Binding-MVC](https://github.com/soumyadip007/Spring-Rest-Jackson-Json-Data-Binding)
-
-- [Customer-Relationship-Management-Real-time-CURD-Application-using-Spring-Rest-Json-HQL-WebServices-MVC (Mini Project)](https://github.com/soumyadip007/Customer-Relationship-Management-Real-time-CURD-Application-using-Spring-Rest-Json-HQL-WebServices)
-
-- [Spring-Boot-with-Restfull-Webservices-Json-Hibernate-JPA-Spring-Data](https://github.com/soumyadip007/Spring-Boot-with-Rest-Json-Hibernate-JPA-SpringDataJPA)
-
-- [Employee-Relationship-CURD-Application-using-Spring-Boot-Thymeleaf-Hibernate-JPA-MVC (Mini Project)](https://github.com/soumyadip007/Employee-Relationship-CURD-Application-using-Spring-Boot-Thymeleaf-Hibernate-JPA-MVC)
-
-- [E-Medical-System (Project)](https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL)
-
-- [SpringBoot-Angular8-Login-Registration](https://github.com/soumyadip007/SpringBoot-Angular8-Login-Registration-for-JavaGuides.net)
-
-- *Pujo Direction* (Android/WEB(Spring Boot, MVC, REST, Security, Hibernate, JPA, Thymeleaf) http://pujodir.cloudjiffy.net/Pujo-Direction(App Store)) (in Private repo for security purposes)
-
-# #Angular8 (Codes & Projects)
-
-- [Angular8-Data-Event-Binding-Directives-Pipes-Form-Validation-Security-HTTP-Service-Routing](https://github.com/soumyadip007/Angular-8-Data-Event-Binding-Directives-Pipes-Form-Validation-Security-HTTP-Service-Routing)
-
-- [Angular-Firebase-CURD-Application](https://github.com/soumyadip007/Angular-Firebase-CURD)
-
-- [Angular8-Authentication-and-Authorization-JSON-JWT (Security)](https://github.com/soumyadip007/Angular-8-Authentication-and-Authorization-JSON-JWT)
-
-- [Angular8 & Redux](https://github.com/soumyadip007/Angular-8-Redux)
-
-- [Shopping-Cart-System-using-Angular-8-Auth-Module-Firebase (Mini Project)](https://github.com/soumyadip007/Shopping-Cart-System-using-Angular-8-Auth-Module-Firebase)
-
-- [SpringBoot-Angular8-Login-Registration](https://github.com/soumyadip007/SpringBoot-Angular8-Login-Registration-for-JavaGuides.net)
-
-# #Other Works
-
-- [DBJ.jar (Framework for JDBC/On progress)](https://github.com/soumyadip007/DBJ.jar)
-
-- [Ofline Route Builder & DTN (On progress)](https://github.com/soumyadip007/Offline-Route-Builder-DTN-Messenger-Android-GPS-OSM)
-
-# #Wiki: https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL/wiki
